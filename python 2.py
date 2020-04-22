@@ -19,9 +19,9 @@ else:
 if  immune == 'yes' :
     immune = True
 else:
-    immun = False
+    immune = False
 
 if age or chronic or immune == True   :
    print("you're in risky group")
 else:
-   print("you're not in riskey group")
+   print("you're not in risky group")

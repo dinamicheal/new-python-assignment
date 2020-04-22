@@ -1,0 +1,6 @@
+my_name =('Joseph')
+user_name = input('enter your name:') 
+if user_name == my_name :
+    print("Hello,Joseph! The password is: @12")
+else:
+    print("Hello,",Amina,"! See you later.")
